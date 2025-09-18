@@ -33,11 +33,11 @@
 <b>Highlights</b> In this work, we present the first systematic investigation into the mechanisms of applying the next-token prediction paradigm to the visual domain. 
 
 - We identify three key properties that hinder the learning of high-level visual semantics: local and conditional dependence, inter-step semantic inconsistency, and spatial invariance deficiency. 
-  ![Figure](./assets/three_issues.png)
+  ![Figure](./three_issues.png)
 - We show that these issues can be effectively addressed by introducing self-supervised objectives during training, leading to a novel training framework, **S**elf-guided **T**raining for **A**uto**R**egressive models (ST-AR). 
-  ![Figure](./assets/st_ar.png)
+  ![Figure](./st_ar.png)
 - We conduct comprehensive experiments to validate the design of each component of ST-AR. Specifically, ST-AR brings approximately $42\%$ FID improvement for LlamaGen-L and $49\%$ FID improvement for LlamaGen-XL, while maintaining the same sampling strategy.
-  ![Figure](./assets/performance.png)
+  ![Figure](./performance.png)
 
 ### 🚨 News
 
