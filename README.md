@@ -23,7 +23,7 @@
   <!-- <sup></sup>Correspondance &emsp; <br> -->
 </div>
 <h3 align="center">
-[<a href="">arXiv</a>]&emsp;
+[<a href="https://arxiv.org/abs/2509.15185">arXiv</a>]&emsp;
 [<a href="">Model (Coming Soon)</a>]&emsp;
 [<a href="https://github.com/yuexy/ST-AR">Codes (Coming Soon)</a>]&emsp;
 
